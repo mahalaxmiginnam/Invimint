@@ -1,5 +1,5 @@
 # Invimint
-send personalised invites to dear ones and make them more special.
+send personalised invites to dear ones and make them feel more special.
 # How does it work ? 
 - Sign up with email address. 
 - select the preset invitation design available at website.
